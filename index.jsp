@@ -1,0 +1,3 @@
+<%
+	pageContext.forward("home.jsp");
+%>
